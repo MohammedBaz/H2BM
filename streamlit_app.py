@@ -1,6 +1,7 @@
 import networkx as nx
 import osmnx as ox
 import geopandas as gpd
+import streamlit as st
 place_name="Al Taif, Makkah Region, Saudi Arabia"
 place_name='Makkah Al Mukarramah, Makkah Region, Saudi Arabia'
 
